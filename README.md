@@ -1,7 +1,10 @@
-Seagulls (Working Title)
+Team: Lonely Toaster
+Game: ??? (Working Title)
 ==============
 
-Unreal Project for UCF Game Workshop Summer 2014
+Bellow: Created by and credited to Brandon Austin
+
+Unreal Project for UCF Game Workshop Fall 2014
 
 Video Tutorial http://youtu.be/bUiIbug_BkE
 
