@@ -1,36 +1,44 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# Folder config file
-Desktop.ini
+# Compiled Dynamic libraries
+*.so
+*.dylib
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Executables
+*.exe
+*.out
+*.app
 
-# =========================
-# Operating System Files
-# =========================
+# Visual Studio project files
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
 
-# OSX
-# =========================
+# Xcode project files
+*.xcodeproj
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# Unreal Directories
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Build
 
-# Icon must ends with two \r.
-Icon
 
-# Thumbnails
-._*
+*.hmap
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+*.dat
+
+*.dep
